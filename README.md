@@ -20,6 +20,7 @@
 ### JavaScript
 
 - [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+- [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/58f1fa6a44d904006cf25d22)
 
 ### React
 
@@ -28,3 +29,4 @@
 ### CSS
 
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
+- [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
