@@ -30,3 +30,11 @@
 
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
 - [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
+
+## 汇总文章
+
+- [8 年前端开发的知识点沉淀(不知道会多少字，一直写下去吧...)](https://juejin.im/post/6844903870276042759)
+
+## 面试题
+
+- [面试完 50 个人后我写下这篇总结](https://juejin.im/post/6844904019165446158)
