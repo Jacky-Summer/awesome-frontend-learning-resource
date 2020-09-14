@@ -16,6 +16,7 @@
 
 - [干货!各种常见布局实现+知名网站实例分析](https://juejin.im/post/5aa252ac518825558001d5de)
 - [关于 CSS-BFC 深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
+- [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
 
 ### JavaScript
 
@@ -24,6 +25,7 @@
 - [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/58f1fa6a44d904006cf25d22)
 - [八段代码彻底掌握 Promise](https://juejin.im/post/6844903488695042062)
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/6844903705058213896)
+- [【建议星星】要就来 45 道 Promise 面试题一次爽到底(1.1w 字用心整理)](https://juejin.im/post/6844904077537574919)
 
 ### React
 
@@ -36,8 +38,11 @@
 
 - [2020 年了,再不会 webpack 敲得代码就不香了(近万字实战)](https://juejin.im/post/6844904031240863758)
 - [Git 实战手册](https://juejin.im/post/6844904047598632967)
+- [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326)
 
 ### 浏览器
+
+- [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/6844903574535667719)
 
 ### HTTP
 
@@ -60,7 +65,6 @@
 ### CSS
 
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
-- [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
 
 ## 面试题
 
