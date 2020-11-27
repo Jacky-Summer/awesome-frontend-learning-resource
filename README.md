@@ -37,23 +37,29 @@
 ## 前端工程化
 
 - [手把手带你入门前端工程化——超详细教程](https://juejin.im/post/6892003555818143752)
+- [2020 年了,再不会 webpack 敲得代码就不香了(近万字实战)](https://juejin.im/post/6844904031240863758)
 
 ### 前端工具
 
-- [2020 年了,再不会 webpack 敲得代码就不香了(近万字实战)](https://juejin.im/post/6844904031240863758)
-- [Git 实战手册](https://juejin.im/post/6844904047598632967)
-- [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326)
-- [如何优雅地使用 Git](https://juejin.im/post/6844903546104135694)
+- [web 调试优化-chrome 开发者工具不完全指南](https://juejin.cn/post/6844903508760608776)
+
+### 前端安全
+
+- [XSS 与 CSRF](https://juejin.cn/post/6844903502968258574)
 
 ### 浏览器
 
 - [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/6844903574535667719)
 
-### HTTP
-
 ### 性能优化
 
 - [我是如何让公司后台管理系统焕然一新的(上) -性能优化](https://juejin.im/post/6844903789388890119)
+
+### Git
+
+- [Git 实战手册](https://juejin.im/post/6844904047598632967)
+- [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326)
+- [如何优雅地使用 Git](https://juejin.im/post/6844903546104135694)
 
 ### 汇总文章
 
@@ -66,6 +72,8 @@
 - [2019 学习学到失恋但是还要继续|2019 与我的技术之路](https://juejin.im/post/6844904024534155277)
 
 ## 文档系统学习资料
+
+-[Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
 
 ### CSS
 
