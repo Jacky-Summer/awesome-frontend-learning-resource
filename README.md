@@ -80,7 +80,7 @@
 
 ## 文档系统学习资料
 
--[Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
+- [Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
 
 ### CSS
 
