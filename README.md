@@ -31,6 +31,7 @@
 
 - [「react 进阶」年终送给 react 开发者的八条优化](https://juejin.cn/post/6908895801116721160)
 - [你真的理解 setState 吗？](https://juejin.cn/post/6844903636749778958)
+- [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
 
 ### Vue
 
