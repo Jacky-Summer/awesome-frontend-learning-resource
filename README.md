@@ -17,6 +17,7 @@
 - [干货!各种常见布局实现+知名网站实例分析](https://juejin.im/post/5aa252ac518825558001d5de)
 - [关于 CSS-BFC 深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
 - [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
+- [1.5 万字 CSS 基础拾遗（核心知识、常见需求）](https://juejin.cn/post/6941206439624966152)
 
 ### JavaScript
 
@@ -32,6 +33,8 @@
 - [「react 进阶」年终送给 react 开发者的八条优化](https://juejin.cn/post/6908895801116721160)
 - [你真的理解 setState 吗？](https://juejin.cn/post/6844903636749778958)
 - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
+- [烤透 React Hook](https://juejin.cn/post/6867745889184972814)
+- [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
 
 ### Vue
 
