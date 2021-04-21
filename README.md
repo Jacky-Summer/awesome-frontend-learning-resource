@@ -27,14 +27,24 @@
 - [八段代码彻底掌握 Promise](https://juejin.im/post/6844903488695042062)
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/6844903705058213896)
 - [【建议星星】要就来 45 道 Promise 面试题一次爽到底(1.1w 字用心整理)](https://juejin.im/post/6844904077537574919)
+- [一篇不是标题党的 CommonJS 和 ES6 模块规范讲解](https://juejin.cn/post/6844904145443356680)
+- [import、require、export、module.exports 混合使用详解](https://juejin.cn/post/6844903520865386510)
+
+### TypeScript
+
+- [一份不可多得的 TS 学习指南（1.8W 字）](https://juejin.cn/post/6872111128135073806)
+- [一文读懂 TypeScript 泛型及应用（ 7.8K 字）](https://juejin.cn/post/6844904184894980104)
+- [TS 常见问题整理（60 多个，持续更新 ing](https://juejin.cn/post/6844904055039344654)
 
 ### React
 
 - [「react 进阶」年终送给 react 开发者的八条优化](https://juejin.cn/post/6908895801116721160)
+- [「react 进阶」一文吃透 react-hooks 原理](https://juejin.cn/post/6944863057000529933)
 - [你真的理解 setState 吗？](https://juejin.cn/post/6844903636749778958)
 - [这可能是最通俗的 React Fiber(时间分片) 打开方式](https://juejin.cn/post/6844903975112671239)
 - [烤透 React Hook](https://juejin.cn/post/6867745889184972814)
 - [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
+- [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039)
 
 ### Vue
 
@@ -62,6 +72,7 @@
 
 - [深入理解 HTTPS 工作原理](https://juejin.cn/post/6844903830916694030)
 - [关于 TCP/IP，必知必会的十个问题](https://juejin.cn/post/6844903490595061767)
+- [（建议精读）HTTP 灵魂之问，巩固你的 HTTP 知识体系](https://juejin.cn/post/6844904100035821575)
 
 ### 性能优化
 
@@ -73,6 +84,7 @@
 - [Git 实战手册](https://juejin.im/post/6844904047598632967)
 - [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326)
 - [如何优雅地使用 Git](https://juejin.im/post/6844903546104135694)
+- [《吐血整理》一篇文章教你学废 Git 版本管理](https://juejin.cn/post/6844904101675794439)
 
 ### 汇总文章
 
