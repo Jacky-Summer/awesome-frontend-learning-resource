@@ -18,10 +18,12 @@
 - [关于 CSS-BFC 深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
 - [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
 - [1.5 万字 CSS 基础拾遗（核心知识、常见需求）](https://juejin.cn/post/6941206439624966152)
+- [个人总结（css3 新特性）](https://juejin.cn/post/6844903518520901639)
 
 ### JavaScript
 
 - [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+- [JS 原型链与继承别再被问倒了](https://juejin.cn/post/6844903475021627400)
 - [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://juejin.im/post/6844903553795014663)
 - [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/58f1fa6a44d904006cf25d22)
 - [八段代码彻底掌握 Promise](https://juejin.im/post/6844903488695042062)
