@@ -49,6 +49,7 @@
 - [烤透 React Hook](https://juejin.cn/post/6867745889184972814)
 - [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
 - [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039)
+- [这可能是全网最全的react性能优化知识锦集](https://mp.weixin.qq.com/s/tTdLEg2Bu3WswAj8UEVi8w)
 
 ### Vue
 
@@ -97,6 +98,7 @@
 - [三年 Git 使用心得 & 常见问题整理](https://juejin.im/post/6844904191203213326)
 - [如何优雅地使用 Git](https://juejin.im/post/6844903546104135694)
 - [《吐血整理》一篇文章教你学废 Git 版本管理](https://juejin.cn/post/6844904101675794439)
+- [给自己点时间再记记这 200 条 Git 命令](https://segmentfault.com/a/1190000022491558)
 
 ### 算法与数据结构
 
@@ -121,5 +123,7 @@
 ## 面试题
 
 - [面试完 50 个人后我写下这篇总结](https://juejin.im/post/6844904019165446158)
+- [高级前端开发者必会的 34 道 Vue 面试题系列（一）](https://juejin.cn/post/6844904097544405000)
 - [记录面试中一些回答不够好的题（Vue 居多）](https://juejin.im/post/6844903569422811150)
 - [这儿有 20 道大厂面试题等你查收](https://juejin.cn/post/6844903874705227789)
+- [由浅入深，66 条 JavaScript 面试知识点](https://juejin.cn/post/6844904200917221389)
