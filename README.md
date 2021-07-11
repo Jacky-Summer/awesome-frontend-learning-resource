@@ -49,7 +49,7 @@
 - [烤透 React Hook](https://juejin.cn/post/6867745889184972814)
 - [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
 - [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039)
-- [这可能是全网最全的react性能优化知识锦集](https://mp.weixin.qq.com/s/tTdLEg2Bu3WswAj8UEVi8w)
+- [这可能是全网最全的 react 性能优化知识锦集](https://mp.weixin.qq.com/s/tTdLEg2Bu3WswAj8UEVi8w)
 
 ### Vue
 
@@ -91,6 +91,7 @@
 
 - [我是如何让公司后台管理系统焕然一新的(上) -性能优化](https://juejin.im/post/6844903789388890119)
 - [前端性能优化 24 条建议（2020）](https://juejin.cn/post/6892994632968306702)
+- [写给中高级前端关于性能优化的 9 大策略和 6 大指标](https://juejin.cn/post/6981673766178783262)
 
 ### Git
 
