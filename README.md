@@ -60,6 +60,8 @@
 
 - [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
 - [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
+- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
+- [搞懂 webpack 热更新原理](https://github.com/careteenL/webpack-hmr)
 
 ### 前端工程化
 
