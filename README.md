@@ -60,8 +60,12 @@
 
 - [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
 - [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
+
+##### 热更新原理
+
 - [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
 - [搞懂 webpack 热更新原理](https://github.com/careteenL/webpack-hmr)
+- [轻松理解 webpack 热更新原理](https://juejin.cn/post/6844904008432222215)
 
 ### 前端工程化
 
@@ -117,12 +121,11 @@
 
 ### 经验总结
 
-- [2019 学习学到失恋但是还要继续|2019 与我的技术之路](https://juejin.im/post/6844904024534155277)
-
 ## 文档系统学习资料
 
 - [Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
+- [精通 Webpack 核心原理](https://juejin.cn/column/6978684601921175583)
 
 ## 面试题
 
