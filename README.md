@@ -50,6 +50,7 @@
 - [React 性能优化 | 包括原理、技巧、Demo、工具使用](https://juejin.cn/post/6935584878071119885)
 - [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039)
 - [这可能是全网最全的 react 性能优化知识锦集](https://mp.weixin.qq.com/s/tTdLEg2Bu3WswAj8UEVi8w)
+- [我对 React 实现原理的理解](https://juejin.cn/post/7117051812540055588)
 
 ### Vue
 
@@ -60,6 +61,7 @@
 
 - [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
 - [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
+- [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040)
 
 ##### 热更新原理
 
