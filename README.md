@@ -124,8 +124,13 @@
 
 ### 经验总结
 
+### 面试相关
+
+- [金九银十，你准备好面试了吗? (附 30w 字前端面试题总结)](https://juejin.cn/post/6996841019094335519)
+
 ## 文档系统学习资料
 
 - [Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
 - [精通 Webpack 核心原理](https://juejin.cn/column/6978684601921175583)
+- [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html?spm=1001.2014.3001.5482)
