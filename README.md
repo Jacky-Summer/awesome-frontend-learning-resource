@@ -62,6 +62,7 @@
 - [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
 - [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
 - [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040)
+- [Webpack5 核心打包原理全流程解析](https://juejin.cn/post/7031546400034947108)
 
 ##### 热更新原理
 
