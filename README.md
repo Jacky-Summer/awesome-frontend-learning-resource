@@ -59,16 +59,18 @@
 
 ### Webpack
 
-- [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
-- [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
-- [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040)
-- [Webpack5 核心打包原理全流程解析](https://juejin.cn/post/7031546400034947108)
-
-##### 热更新原理
-
-- [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
-- [搞懂 webpack 热更新原理](https://github.com/careteenL/webpack-hmr)
-- [轻松理解 webpack 热更新原理](https://juejin.cn/post/6844904008432222215)
+- Webpack 打包原理
+  - [Webpack 揭秘——走向高阶前端的必经之路](https://juejin.cn/post/6844903685407916039)
+  - [「搞点硬货」从源码窥探 Webpack4.x 原理](https://juejin.cn/post/6844904046294204429)
+  - [[万字总结] 一文吃透 Webpack 核心原理](https://juejin.cn/post/6949040393165996040)
+  - [Webpack5 核心打包原理全流程解析](https://juejin.cn/post/7031546400034947108)
+- 系列教程
+  - [史上最走心 webpack4.0 中级教程——配置之外你应该知道的事](https://www.cnblogs.com/dashnowords/p/9572755.html)
+  - [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html)
+- 热更新原理
+  - [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
+  - [搞懂 webpack 热更新原理](https://github.com/careteenL/webpack-hmr)
+  - [轻松理解 webpack 热更新原理](https://juejin.cn/post/6844904008432222215)
 
 ### 前端工程化
 
