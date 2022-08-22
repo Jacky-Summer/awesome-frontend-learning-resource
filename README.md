@@ -51,6 +51,8 @@
 - [TypeScript 备忘录：如何在 React 中完美运用？](https://juejin.cn/post/6910863689260204039)
 - [这可能是全网最全的 react 性能优化知识锦集](https://mp.weixin.qq.com/s/tTdLEg2Bu3WswAj8UEVi8w)
 - [我对 React 实现原理的理解](https://juejin.cn/post/7117051812540055588)
+- React SSR
+  - [React SSR 详解【近 1W 字】+ 2个项目实战](https://juejin.cn/post/6844904017487724557)
 - 深入 React 原理的系列教程
   - [React技术揭秘](https://react.iamkasong.com/)
   - [图解React原理系列](https://7kms.github.io/react-illustration-series/)
