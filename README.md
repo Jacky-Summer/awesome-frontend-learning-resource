@@ -143,3 +143,7 @@
 - [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
 - [精通 Webpack 核心原理](https://juejin.cn/column/6978684601921175583)
 - [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html?spm=1001.2014.3001.5482)
+
+## 技术视野
+
+- [如何不基于构建工具优雅的实现模块导入？](https://mp.weixin.qq.com/s/iXWfkcqvFZTlx63Uro6jMw)
