@@ -15,6 +15,7 @@
 ### CSS
 
 - [干货!各种常见布局实现+知名网站实例分析](https://juejin.im/post/5aa252ac518825558001d5de)
+- [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
 - [关于 CSS-BFC 深入理解](https://juejin.im/post/5909db2fda2f60005d2093db)
 - [CSS 知识点及技巧整理](https://juejin.im/post/5a954add6fb9a06348538c0d)
 - [1.5 万字 CSS 基础拾遗（核心知识、常见需求）](https://juejin.cn/post/6941206439624966152)
@@ -74,6 +75,8 @@
 - 系列教程
   - [史上最走心 webpack4.0 中级教程——配置之外你应该知道的事](https://www.cnblogs.com/dashnowords/p/9572755.html)
   - [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html)
+  - [精通 Webpack 核心原理](https://juejin.cn/column/6978684601921175583)
+  - [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html?spm=1001.2014.3001.5482)
 - 热更新原理
   - [Webpack HMR 原理解析](https://zhuanlan.zhihu.com/p/30669007)
   - [搞懂 webpack 热更新原理](https://github.com/careteenL/webpack-hmr)
@@ -118,6 +121,7 @@
 - [如何优雅地使用 Git](https://juejin.im/post/6844903546104135694)
 - [《吐血整理》一篇文章教你学废 Git 版本管理](https://juejin.cn/post/6844904101675794439)
 - [给自己点时间再记记这 200 条 Git 命令](https://segmentfault.com/a/1190000022491558)
+- [Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
 
 ### 算法与数据结构
 
@@ -131,18 +135,15 @@
 - [1024 巨献！！一文看尽前端过去一年的精华沉淀（700 篇好文大汇总）](https://juejin.im/post/6844903976068972552)
 - [前端进阶指南](https://juejin.cn/post/6977258091662278669)
 
-### 经验总结
-
 ### 面试相关
 
 - [金九银十，你准备好面试了吗? (附 30w 字前端面试题总结)](https://juejin.cn/post/6996841019094335519)
 
-## 文档系统学习资料
+### 经验总结
 
-- [Git 中文教程](https://geeeeeeeeek.github.io/git-recipes/)
-- [深入浅出介绍各种 CSS 布局概念及技术](https://marvin1023.github.io/css-layout/)
-- [精通 Webpack 核心原理](https://juejin.cn/column/6978684601921175583)
-- [重学 webpack——webpack5.0](https://blog.csdn.net/qq_17175013/category_11156046.html?spm=1001.2014.3001.5482)
+### 其它
+
+- [前端业务开发的通用经验 - 质量保障](https://juejin.cn/post/6856375724979257352)
 
 ## 技术视野
 
