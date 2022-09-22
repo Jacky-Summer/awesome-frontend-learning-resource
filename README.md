@@ -102,6 +102,7 @@
 - [从输入 URL 到页面加载的过程？如何由一道题完善自己的前端知识体系！](https://juejin.im/post/6844903574535667719)
 - [一次搞定前端“核心主线”——从输入 URL 到页面展示发生了什么](https://zhuanlan.zhihu.com/p/190320054)
 - [深入理解浏览器的缓存机制](https://juejin.cn/post/6844904023665934349)
+- [「前端进阶」从多线程到Event Loop全面梳理](https://juejin.cn/post/6844903919789801486)
 - [浏览器工作原理与实践](https://blog.poetries.top/browser-working-principle/guide/part1/lesson01.html)
 
 ### 网络
