@@ -27,6 +27,7 @@
 - [JS 原型链与继承别再被问倒了](https://juejin.cn/post/6844903475021627400)
 - [从浏览器多进程到 JS 单线程，JS 运行机制最全面的一次梳理](https://juejin.im/post/6844903553795014663)
 - [破解前端面试（80% 应聘者不及格系列）：从闭包说起](https://juejin.im/post/58f1fa6a44d904006cf25d22)
+- [「吊打面试官」一篇文章彻底搞定【JavaScript闭包】](https://juejin.cn/post/6888150116138483719)
 - [八段代码彻底掌握 Promise](https://juejin.im/post/6844903488695042062)
 - [JavaScript 复杂判断的更优雅写法](https://juejin.im/post/6844903705058213896)
 - [【建议星星】要就来 45 道 Promise 面试题一次爽到底(1.1w 字用心整理)](https://juejin.im/post/6844904077537574919)
