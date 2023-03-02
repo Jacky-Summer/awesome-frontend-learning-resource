@@ -63,6 +63,7 @@
   - [图解React原理系列](https://7kms.github.io/react-illustration-series/)
   - [React 原理解析](https://yuchengkai.cn/react/)
   - [React 源码解析](https://react.jokcy.me/)
+  - [人人都能读懂的react源码解析](https://juejin.cn/post/6920788310877028365)
 
 ### Vue
 
